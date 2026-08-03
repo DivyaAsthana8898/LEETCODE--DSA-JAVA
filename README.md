@@ -22,4 +22,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0001-two-sum/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
