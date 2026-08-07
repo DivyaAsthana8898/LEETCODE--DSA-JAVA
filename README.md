@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
+| [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -52,5 +53,6 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
