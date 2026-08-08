@@ -1,15 +1,13 @@
 class Solution {
-    public int findDuplicate(int[] arr) {
-        HashMap<Integer , Integer> freq = new HashMap<>();
-        
-        for(int nums : arr){
-        freq.put(nums,freq.getOrDefault(nums,0)+1); 
+    public int findDuplicate(int[] nums) {
+        HashMap <Integer,Integer> freq = new HashMap<>();
+        for(int arr: nums){
+            freq.put(arr,freq.getOrDefault(arr,0) +1);
         }
-        for(int i:arr){
-        if(freq.get(i) > 1){
-            return i;
-        }
-
+        for(int i:nums){
+            if(freq.get(i) > 1){// if the occurence is greater then 1 then return that value
+                return i;
+            }
         }
         return -1;
     }
