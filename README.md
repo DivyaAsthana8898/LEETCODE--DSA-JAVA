@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
@@ -88,9 +89,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
