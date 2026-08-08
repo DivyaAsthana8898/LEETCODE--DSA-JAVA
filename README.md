@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
+| [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +82,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
