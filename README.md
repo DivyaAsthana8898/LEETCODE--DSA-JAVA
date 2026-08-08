@@ -13,6 +13,7 @@
 | [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 <!---LeetCode Topics End-->
