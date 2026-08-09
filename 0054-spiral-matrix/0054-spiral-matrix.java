@@ -10,9 +10,9 @@ class Solution {
         int endingCol = n-1;
 
         // row wise left to right moving from startingcol towards the ending column
-          while(startingRow <= endingRow && startingCol <= endingCol){
-        for(int col = startingCol ; col<= endingCol ; col++){
-            result.add(matrix[startingRow][col]);
+          while(startingRow <= endingRow && startingCol <= endingCol){// INT COL = CONTAINS MOVING FROM
+        for(int col = startingCol ; col<= endingCol ; col++){ 
+            result.add(matrix[startingRow][col]); // FOR 1ST VAL IF ROW PUT IN ROW IF COL PUT IN COL THE LEFT ENTITY WILL BE THE ONE WHICH WE HAVE TO ELIMINATE.
 
 
         }
@@ -36,7 +36,7 @@ class Solution {
          for(int col = endingCol; col>=startingCol; col--){
             result.add(matrix[endingRow][col]);
          }
-          endingRow--;
+          endingRow--;// ELIMINATED VALUE;
 
                 // col wise bottom to top moving from endingRow to startingRow;
                 for(int row = endingRow; row>=startingRow;row--){
