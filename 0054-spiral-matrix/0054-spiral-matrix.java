@@ -12,7 +12,8 @@ class Solution {
         // row wise left to right moving from startingcol towards the ending column
           while(startingRow <= endingRow && startingCol <= endingCol){// INT COL = CONTAINS MOVING FROM
         for(int col = startingCol ; col<= endingCol ; col++){ 
-            result.add(matrix[startingRow][col]); // FOR 1ST VAL IF ROW PUT IN ROW IF COL PUT IN COL THE LEFT ENTITY WILL BE THE ONE WHICH WE HAVE TO ELIMINATE.
+            result.add(matrix[startingRow][col]); //1- col , is  changing as it is the order of traversal.   2- where we have to traverse and eliminate is fixed  and that will be the second entity.
+          //  apart from for's first entity. 
 
 
         }
