@@ -20,7 +20,7 @@ class Solution {
         // // If no letter is greater than target,
         // wrap around to the first letter
          if(upper == n){
-            return letters[0];
+            return letters[0];// return first letter
          }
          return letters[upper];
     }
