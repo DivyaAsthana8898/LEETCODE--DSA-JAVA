@@ -63,6 +63,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
@@ -102,4 +103,8 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
