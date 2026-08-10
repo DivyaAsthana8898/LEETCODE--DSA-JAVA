@@ -20,6 +20,7 @@
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@
 | [0278-first-bad-version](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
