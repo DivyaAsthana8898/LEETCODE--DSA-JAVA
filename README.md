@@ -22,6 +22,7 @@
 | [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
