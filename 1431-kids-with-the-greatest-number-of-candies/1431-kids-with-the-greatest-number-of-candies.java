@@ -6,11 +6,11 @@ class Solution {
          // traversing to find max 
         for(int i = 0;i < n; i++){// this is been used to find the max value ;
         if(candies[i] >= max ){
-            max = candies[i]; //replace candies[i] which is max with max;
+            max = candies[i]; //replace candies[i] which is max with max = 0;
 
           }
         }
-        // now traversing to check every children
+        // now traversing to check every children // note extra candies are  provided by user
          for( int i = 0; i<n;i++  ){
             if(candies[i] + extraCandies >= max){
                 result.add(true);
