@@ -6,11 +6,11 @@ class Solution {
 
 
         }
-         // original array
+         // original MATRIX
          int totalRows = matrix.length;
          int totalColumn = matrix[0].length;
 
-         // new array been built 
+         // new MATRIX been built WITH THIS ORDER R=C C=R
          int newTotalRows = totalColumn;
          int newTotalColumn = totalRows;
          int [][]ans = new int [newTotalRows][newTotalColumn];
