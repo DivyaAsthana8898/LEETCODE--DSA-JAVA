@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
@@ -91,6 +92,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
