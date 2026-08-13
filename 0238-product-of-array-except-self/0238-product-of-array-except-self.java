@@ -15,6 +15,7 @@ class Solution {
         int suffix = 1;
 
         for (int i = n - 1; i >= 0; i--) {
+           // suffixes rhs product [24,24,12,4]
             ans[i] = ans[i] * suffix;
             suffix = suffix * nums[i];
         }
