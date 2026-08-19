@@ -14,4 +14,4 @@ class Solution {
 }
 
 // ans = index;
-// ans[i] = element at that index;
+// ans[i] = elemen
