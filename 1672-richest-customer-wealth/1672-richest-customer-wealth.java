@@ -1,17 +1,19 @@
 class Solution {
     public int maximumWealth(int[][] accounts) {
-         int maxWealth = 0; 
-         for(int i = 0;i<accounts.length;i++){//for row which customer to add first ;
-         int sum = 0;
-           for(int j = 0; j < accounts[i].length;j++){//  which column bank needs to be process first;
-            sum = sum + accounts[i][j];
-           }
-           maxWealth = Math.max(maxWealth,sum);
+    
+        int maxWealth = 0;
+       // int  maxi = Integer.MAX_VALUE;
+        for(int i =0;i<accounts.length;i++ ){
+            int sum = 0;
+            for(int j = 0;j<accounts[i].length;j++){
+                sum = sum + accounts[i][j];
+            }
+                maxWealth = Math.max(sum,maxWealth);
+                  
 
-            
-         }
-         return maxWealth;
+
+            }
         
-        
+        return maxWealth;
     }
 }
