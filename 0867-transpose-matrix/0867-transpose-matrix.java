@@ -26,3 +26,10 @@ class Solution {
          return ans;
     }
 }
+
+    // STEP 1 = SECURITY CHECKS 
+    // STEP 2 = SETTING C & ROWS
+    // STEP 3 = NEW R = PREV C, NEW C = PREV R DIM SET
+    // STEP 4 = CREATING THAT MATRIX 
+    // STEP 5 = TRAVERSING OLD MATRIX R,C BOTH
+    // STEP 6 = POURING ANS[J][I]= MATRIX[I][J];
