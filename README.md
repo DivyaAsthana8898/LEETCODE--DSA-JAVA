@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0414-third-maximum-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
@@ -51,6 +52,7 @@
 | [0018-4sum](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
+| [0414-third-maximum-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
