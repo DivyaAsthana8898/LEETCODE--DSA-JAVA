@@ -59,6 +59,7 @@
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,12 +81,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
