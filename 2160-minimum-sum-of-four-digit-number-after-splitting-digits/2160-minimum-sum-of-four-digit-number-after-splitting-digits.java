@@ -1,18 +1,15 @@
 class Solution {
     public int minimumSum(int num) {
+        int [] digit = new int[4];
+        for(int i = 0;i<4;i++){
+            digit[i] = num % 10;// provides last digit 
+            num = num / 10;// removes the last digit
 
-        int[] digits = new int[4];
 
-        for(int i = 0; i < 4; i++) {
-            digits[i] = num % 10;
-            num = num / 10;
         }
-
-        Arrays.sort(digits);
-
-        int num1 = digits[0] * 10 + digits[2];
-        int num2 = digits[1] * 10 + digits[3];
-
-        return num1 + num2;
+         Arrays.sort(digit);
+         int num1 = digit[0] * 10 + digit[2];
+         int num2 = digit[1] * 10  + digit[3];
+         return num1 + num2;
     }
 }
