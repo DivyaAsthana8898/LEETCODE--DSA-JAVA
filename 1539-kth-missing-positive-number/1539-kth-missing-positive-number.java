@@ -6,7 +6,7 @@ class Solution {
       
         while(start <= end){
                  int mid = start +(end - start )/2;
-            int missing = arr[mid] - (mid+1);// actual logic 
+            int missing = arr[mid] - (mid+1);// actual logic.  provides the count of missing no
 
         if(missing < k){
             start = mid + 1;
