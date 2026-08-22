@@ -42,6 +42,7 @@
 | [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Two Pointers
@@ -75,6 +76,7 @@
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
