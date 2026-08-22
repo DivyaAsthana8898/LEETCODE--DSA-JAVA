@@ -37,6 +37,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
@@ -63,6 +64,7 @@
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
