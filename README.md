@@ -44,6 +44,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
