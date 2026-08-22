@@ -25,3 +25,6 @@ class Solution {
         return ans;
     }
 }
+
+ // .add 
+ // .size // HashSet been used to avoid duplicacy 
