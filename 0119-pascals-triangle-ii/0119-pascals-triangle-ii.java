@@ -10,7 +10,7 @@ class Solution {
               // handling first and last index;
               if(j == 0 || j == i){
                  row.add(1);
-              }else{
+              }else{// handling middle values
                 int value = ans.get(i-1).get(j-1)+ans.get(i-1).get(j);
                 row.add(value);
               }
