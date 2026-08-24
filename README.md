@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -116,6 +117,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -167,6 +169,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
