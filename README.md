@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -118,6 +119,7 @@
 | [0035-search-insert-position](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -156,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +173,7 @@
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Simulation
