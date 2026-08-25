@@ -64,6 +64,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -230,4 +231,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
