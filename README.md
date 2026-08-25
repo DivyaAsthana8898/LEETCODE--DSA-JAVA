@@ -36,6 +36,7 @@
 | [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
@@ -109,6 +110,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
