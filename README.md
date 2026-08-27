@@ -258,6 +258,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0443-string-compression/) | Medium |
