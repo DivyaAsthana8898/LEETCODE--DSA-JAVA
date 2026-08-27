@@ -1,7 +1,9 @@
 class Solution {
     public boolean isPalindrome(String s) {
+        // setting up both the check marks
       String result = s.replaceAll("[^a-zA-Z0-9]" , "");
          String word = result.toLowerCase();
+         // setting up pointers
         int left = 0;
         int right = word.length()-1;
 
