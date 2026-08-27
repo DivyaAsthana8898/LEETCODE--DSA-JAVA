@@ -124,6 +124,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
@@ -189,6 +190,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -274,5 +276,6 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
