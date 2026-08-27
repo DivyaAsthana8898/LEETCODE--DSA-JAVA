@@ -70,6 +70,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -260,6 +261,7 @@
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
