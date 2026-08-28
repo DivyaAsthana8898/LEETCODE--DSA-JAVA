@@ -78,6 +78,7 @@
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -275,6 +276,7 @@
 | [0709-to-lower-case](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
