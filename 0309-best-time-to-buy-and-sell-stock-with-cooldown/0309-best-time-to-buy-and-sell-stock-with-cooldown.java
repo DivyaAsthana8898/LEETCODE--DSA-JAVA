@@ -11,11 +11,11 @@ class Solution {
             int prevSold = sold;// states2
             int prevRest = rest;// prev states3
 
-            hold = Math.max(prevHold, prevRest - prices[i]);
+            hold = Math.max(prevHold, prevRest - prices[i]); //stock abhi paas hai final answer nahi
 
-            sold = prevHold + prices[i];
+            sold = prevHold + prices[i];//stock sell ho chuka  valid final profit
 
-            rest = Math.max(prevRest, prevSold);
+            rest = Math.max(prevRest, prevSold);// stock nahi hai  valid final profit
         }
 
         return Math.max(sold, rest);
