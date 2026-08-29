@@ -44,6 +44,7 @@
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0896-monotonic-array/) | Easy |
 | [0941-valid-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -92,6 +93,7 @@
 | [0414-third-maximum-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -116,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0075-sort-colors/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +132,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -140,6 +144,7 @@
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -300,4 +305,8 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
