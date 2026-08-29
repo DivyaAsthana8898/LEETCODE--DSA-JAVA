@@ -16,8 +16,12 @@ class Solution {
             sold = prevHold + prices[i];//stock sell ho chuka  valid final profit
 
             rest = Math.max(prevRest, prevSold);// stock nahi hai  valid final profit
+            // => cooldown state;  
         }
 
         return Math.max(sold, rest);
     }
 }
+// hold → Stock mere paas hai; ya to pehle se hold kiya hai ya aaj buy kiya hai.
+// sold → Stock aaj sell kiya hai, aur selling ke baad profit calculate hua hai.
+// rest → Aaj na buy kiya na sell; ya to normal rest hai ya previous day ke sell ke baad cooldown hai.
