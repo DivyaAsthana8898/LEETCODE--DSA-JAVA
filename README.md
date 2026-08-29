@@ -60,6 +60,7 @@
 | [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -199,6 +200,7 @@
 | [0238-product-of-array-except-self](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
