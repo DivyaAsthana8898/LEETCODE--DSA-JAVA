@@ -13,6 +13,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
+| [0045-jump-game-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
@@ -121,6 +122,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
@@ -195,6 +197,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
