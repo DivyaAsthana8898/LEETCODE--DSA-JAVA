@@ -110,6 +110,7 @@
 | [0001-two-sum](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0001-two-sum/) | Easy |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
+| [0383-ransom-note](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
@@ -253,6 +254,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -294,6 +296,7 @@
 | [0125-valid-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
+| [0383-ransom-note](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0443-string-compression/) | Medium |
