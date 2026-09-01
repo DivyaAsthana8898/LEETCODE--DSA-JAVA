@@ -11,3 +11,4 @@ class Solution {
 
     }
 }
+//i+n means 0+3 = 3 starts from 3rd index
