@@ -28,6 +28,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
