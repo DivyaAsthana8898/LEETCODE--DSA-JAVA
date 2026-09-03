@@ -10,7 +10,8 @@ class Solution {
         output.add(currValue);
         //include 
         solve(nums,index+1,output,ans);
-        //
+        //\
+        // BACKTRACKING 
         output.remove(output.size()-1);
         // exclude
         solve(nums,index+1,output,ans);
