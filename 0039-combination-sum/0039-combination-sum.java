@@ -19,7 +19,7 @@ class Solution {
         // backtracking process
         output.remove(output.size()-1);
         // Exclude case
-        solve(candidates,target,index+1,ans,output);     
+        solve(candidates,target,index+1,ans,output);     /// note exclude pr hi index increment hoga 
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
