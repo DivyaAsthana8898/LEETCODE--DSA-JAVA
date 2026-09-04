@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0045-jump-game-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
@@ -383,6 +384,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
