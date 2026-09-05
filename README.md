@@ -68,6 +68,7 @@
 | [1539-kth-missing-positive-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -357,6 +358,7 @@
 | [0771-jewels-and-stones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
