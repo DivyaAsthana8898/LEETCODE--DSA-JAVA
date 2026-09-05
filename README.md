@@ -89,6 +89,7 @@
 | [0018-4sum](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0125-valid-palindrome/) | Easy |
@@ -334,6 +335,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -389,4 +391,20 @@
 | [0078-subsets](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0090-subsets-ii/) | Medium |
 | [0216-combination-sum-iii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0216-combination-sum-iii/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
