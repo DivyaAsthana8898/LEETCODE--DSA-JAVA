@@ -77,6 +77,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -358,6 +359,7 @@
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
