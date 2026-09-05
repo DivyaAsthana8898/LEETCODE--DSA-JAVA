@@ -349,6 +349,7 @@
 | [0392-is-subsequence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0443-string-compression](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0443-string-compression/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0520-detect-capital/) | Easy |
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
@@ -395,14 +396,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Boyer–Moore String-Search Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
