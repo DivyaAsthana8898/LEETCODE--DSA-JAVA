@@ -12,7 +12,7 @@ class Solution {
           for(int right = k; right<n; right++){
          
              
-                 sum = sum - nums[left] + nums[right];
+                 sum = sum - nums[left] + nums[right];// fixed sliding window formula
                  left++;
                 if(sum > max){
                     max = sum;
