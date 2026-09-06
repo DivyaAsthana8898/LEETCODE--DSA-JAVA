@@ -45,6 +45,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
@@ -334,6 +335,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
