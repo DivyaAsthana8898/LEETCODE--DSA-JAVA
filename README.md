@@ -366,6 +366,7 @@
 | [0709-to-lower-case](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
