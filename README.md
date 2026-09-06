@@ -79,6 +79,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -365,6 +366,7 @@
 | [1816-truncate-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
