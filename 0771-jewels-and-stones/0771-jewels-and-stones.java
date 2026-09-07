@@ -4,16 +4,15 @@ class Solution {
 
         for(char ch : jewels.toCharArray()){
             set.add(ch);
-        }  
 
-        int count = 0;
-        for(char ch : stones.toCharArray()){
+        }
+         int count =  0;
+             for(char ch : stones.toCharArray()){
             if(set.contains(ch)){
-            count++;
-        } 
+                count++;
+            }
+            
         }
         return count;
-
-
     }
 }
