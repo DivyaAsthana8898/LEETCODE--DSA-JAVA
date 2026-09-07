@@ -311,6 +311,7 @@
 | [1051-height-checker](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Ternary Search
@@ -372,6 +373,7 @@
 | [1108-defanging-an-ip-address](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1704-determine-if-string-halves-are-alike](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
