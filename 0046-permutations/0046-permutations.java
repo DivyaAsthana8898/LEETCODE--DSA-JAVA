@@ -7,7 +7,7 @@ class Solution {
           }
           for( int i = 0;i < nums.length;i++){
             int ch = nums[i];
-             int []rem = new int [nums.length-1];
+             int []rem = new int [nums.length-1];//ek naya integer array banao jiska size original array se 1 kam ho.
              int index = 0;
              // creating array for remaning elemnts;
              for(int j = 0;j< nums.length ; j++){
