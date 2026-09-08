@@ -142,6 +142,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0217-contains-duplicate/) | Easy |
@@ -192,6 +193,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
@@ -350,6 +352,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0058-length-of-last-word/) | Easy |
