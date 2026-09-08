@@ -212,6 +212,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3870-count-commas-in-range](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
