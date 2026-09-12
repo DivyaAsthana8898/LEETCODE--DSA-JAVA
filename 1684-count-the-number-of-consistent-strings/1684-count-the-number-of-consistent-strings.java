@@ -20,6 +20,7 @@ class Solution {
            }if(valid){
             count++;
            }
+
           }
           return count;
 }
