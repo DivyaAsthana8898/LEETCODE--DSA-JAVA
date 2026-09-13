@@ -22,6 +22,7 @@
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/DivyaAsthana8898/DSA-CORE-JAVA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0078-subsets/) | Medium |
@@ -208,6 +209,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
+| [0066-plus-one](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
