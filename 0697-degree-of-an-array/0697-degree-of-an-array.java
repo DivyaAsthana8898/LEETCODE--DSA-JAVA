@@ -22,11 +22,12 @@ class Solution {
             int ans = nums.length;
             for(int key : freq.keySet()){
                 if(freq.get(key) == degree){
-                    int length = last.get(key) - first.get(key) + 1;
-                    ans = Math.min(ans,length);
+                    int length = last.get(key) - first.get(key) + 1;//// 5-1+1 = 5 
+                    ans = Math.min(ans,length);//// 6, 5 = 5
+
                 }
             }   
-            
+
         return ans;
     }
 }
