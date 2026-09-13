@@ -46,6 +46,7 @@
 | [0414-third-maximum-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
@@ -133,6 +134,7 @@
 | [0389-find-the-difference](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -372,6 +374,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0506-relative-ranks](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0506-relative-ranks/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## String
