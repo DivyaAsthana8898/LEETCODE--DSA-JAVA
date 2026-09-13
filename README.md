@@ -47,6 +47,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
@@ -132,6 +133,7 @@
 | [0389-find-the-difference](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -201,6 +203,7 @@
 | [0409-longest-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
@@ -331,6 +334,7 @@
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
