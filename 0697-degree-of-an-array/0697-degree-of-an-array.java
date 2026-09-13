@@ -26,6 +26,7 @@ class Solution {
                     ans = Math.min(ans,length);
                 }
             }   
+            
         return ans;
     }
 }
