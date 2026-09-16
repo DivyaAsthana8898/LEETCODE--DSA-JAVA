@@ -126,6 +126,7 @@
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sorting
@@ -417,6 +418,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
@@ -467,6 +469,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
