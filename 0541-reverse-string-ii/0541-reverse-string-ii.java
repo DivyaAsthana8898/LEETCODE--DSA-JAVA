@@ -1,22 +1,21 @@
 class Solution {
     public String reverseStr(String s, int k) {
-        char []word = s.toCharArray();
-        for(int start = 0;start<word.length;start += 2*k){//start += 2*k;
+        char []words = s.toCharArray();
+        for(int start = 0;start < words.length;start +=  2*k){// jump for start
 
-  // next 2k block par jump
-
+            // 
             int left = start;
-            int right = Math.min(start+k-1,word.length-1);//first k characters ka last index,
+            int right = Math.min(start+k-1,words.length-1); // //first k characters ka last index,
 
+            // Using temp to perform swapping
             while(left < right){
-                char  temp = word[left];
-                word[left] = word[right];
-                word[right] = temp;
+                char  temp = words[left];
+                words[left] = words[right];
+                words[right] = temp;  
                 left++;
                 right--;
             }
-
         }
-        return new String(word);
+        return new String(words);
     }
 }
