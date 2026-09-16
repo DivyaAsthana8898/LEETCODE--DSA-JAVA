@@ -40,6 +40,7 @@
 | [0238-product-of-array-except-self](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -109,6 +110,7 @@
 | [0125-valid-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
+| [0283-move-zeroes](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
