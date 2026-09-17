@@ -6,7 +6,7 @@ class Solution {
         int ans = n;
         while(start <= end){
             int mid = start + (end - start)/2;
-            if(arr[mid] >= target){
+            if(arr[mid] >= target){// condition for lower bound
                 ans = mid;// just store the index if the condition is specified;
                        end = mid - 1;
 
