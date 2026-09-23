@@ -233,6 +233,7 @@
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0441-arranging-coins/) | Easy |
 | [0509-fibonacci-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -333,6 +334,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -411,6 +413,7 @@
 | [0392-is-subsequence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0415-add-strings/) | Easy |
 | [0443-string-compression](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0520-detect-capital/) | Easy |
