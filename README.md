@@ -60,6 +60,7 @@
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0819-most-common-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0819-most-common-word/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
@@ -183,6 +184,7 @@
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0697-degree-of-an-array/) | Easy |
 | [0771-jewels-and-stones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
+| [0819-most-common-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0819-most-common-word/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -356,6 +358,7 @@
 | [0383-ransom-note](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
+| [0819-most-common-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0819-most-common-word/) | Easy |
 | [1051-height-checker](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -430,6 +433,7 @@
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0709-to-lower-case](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
+| [0819-most-common-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0819-most-common-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
