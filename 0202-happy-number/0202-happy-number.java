@@ -14,9 +14,9 @@ class Solution {
     private int sumOfSquares(int n) {
         int sum = 0;
         while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
+            int digit = n % 10;// 1 % 10 = 1
+            sum += digit * digit;// 81+1
+            n = n/10;// 19 q = 1 
         }
         return sum;
     }
