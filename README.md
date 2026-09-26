@@ -229,6 +229,7 @@
 | [0013-roman-to-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
@@ -276,6 +277,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
@@ -335,6 +337,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
@@ -404,6 +407,7 @@
 | [0020-valid-parentheses](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0205-isomorphic-strings/) | Easy |
