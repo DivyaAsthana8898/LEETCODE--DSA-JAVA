@@ -24,10 +24,11 @@ class Solution {
             }
 
             int sum = digit1 + digit2 + carry;
+     
 
-            ans.append(sum % 10);
+            ans.append(sum % 10);//// remainder → answer
 
-            carry = sum / 10;
+            carry = sum / 10;// // quotient  → carry
         }
 
         return ans.reverse().toString();
