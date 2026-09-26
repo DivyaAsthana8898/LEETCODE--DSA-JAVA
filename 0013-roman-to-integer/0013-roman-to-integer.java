@@ -24,3 +24,7 @@ class Solution {
             }
           
     }
+
+
+//VI   = 5 + 1 = 6
+//IV   = -1 + 5 = 4
