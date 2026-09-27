@@ -15,8 +15,8 @@ class Solution {
                 start = mid + 1;
             } 
             else {
-                ans = mid;
-                end = mid;
+                ans = mid;// to save the ans
+                end = mid;//Peak MID ya LEFT mein ho sakta hai
             }
         }
 
