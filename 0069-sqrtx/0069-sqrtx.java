@@ -9,7 +9,7 @@ class Solution {
         }
          while(start <= end){
             int mid = start + (end - start)/2;
-            if(mid == x/mid ){
+            if(mid == x/mid ){// if target == mid 
                 return mid;
             }
              else if(mid > x/mid){
