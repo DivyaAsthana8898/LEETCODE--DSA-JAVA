@@ -6,7 +6,7 @@ class Solution {
 
         for (int num : nums) {
             count += freq[num];
-            freq[num]++;
+            freq[num] = freq[num] + 1;
         }
 
         return count;
