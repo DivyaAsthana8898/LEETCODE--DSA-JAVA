@@ -6,9 +6,9 @@ class Solution {
      
         // first window
             for (int i = 0; i < k; i++) {
-            sum += nums[i];
+            sum = sum +  nums[i];
         }
-           int max = sum;
+           int max = sum;// updating
           for(int right = k; right<n; right++){
          
              
