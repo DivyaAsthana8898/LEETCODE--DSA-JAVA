@@ -103,6 +103,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -207,6 +208,7 @@
 | [1748-sum-of-unique-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2670-find-the-distinct-difference-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -261,6 +263,7 @@
 | [1512-number-of-good-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3870-count-commas-in-range](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Search
@@ -383,6 +386,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
