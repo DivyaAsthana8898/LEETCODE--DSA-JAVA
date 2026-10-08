@@ -68,6 +68,7 @@
 | [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0896-monotonic-array/) | Easy |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -160,6 +161,7 @@
 | [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -330,6 +332,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0053-maximum-subarray/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +382,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0819-most-common-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0819-most-common-word/) | Easy |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -422,6 +426,7 @@
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0506-relative-ranks/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -537,4 +542,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0997-find-the-town-judge/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
