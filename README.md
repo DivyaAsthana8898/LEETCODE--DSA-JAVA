@@ -106,6 +106,7 @@
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -177,6 +178,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -213,6 +215,7 @@
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -479,6 +482,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
+| [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
