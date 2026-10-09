@@ -84,6 +84,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -169,6 +170,7 @@
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
