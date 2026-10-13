@@ -499,6 +499,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -567,4 +568,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
