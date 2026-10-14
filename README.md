@@ -72,6 +72,7 @@
 | [0896-monotonic-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
+| [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -143,6 +144,7 @@
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0917-reverse-only-letters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0917-reverse-only-letters/) | Easy |
+| [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
@@ -251,6 +253,7 @@
 | [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
+| [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -477,6 +480,7 @@
 | [0771-jewels-and-stones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0819-most-common-word/) | Easy |
 | [0917-reverse-only-letters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0917-reverse-only-letters/) | Easy |
+| [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
 | [1002-find-common-characters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
