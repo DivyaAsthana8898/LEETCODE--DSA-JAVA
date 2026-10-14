@@ -253,6 +253,7 @@
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -396,6 +397,7 @@
 | [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -478,6 +480,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
