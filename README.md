@@ -105,6 +105,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -183,6 +184,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -261,6 +263,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1323-maximum-69-number/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -411,6 +414,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Ternary Search
