@@ -5,7 +5,7 @@ class Solution {
 
         for(int i = 1;i<n;i++){
             if(nums[i] <= nums[i-1]){
-                count += ( nums[i-1] + 1) - nums[i];
+                count += ( nums[i-1] + 1) - nums[i];// minimum number of operations req;
                 nums[i] = nums[i-1] + 1;
                 
 
