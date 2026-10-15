@@ -258,6 +258,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1323-maximum-69-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1323-maximum-69-number/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -278,6 +279,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1323-maximum-69-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
