@@ -113,6 +113,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -191,6 +192,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@
 | [1748-sum-of-unique-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2670-find-the-distinct-difference-array/) | Easy |
@@ -270,6 +273,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -398,6 +402,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +463,7 @@
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
