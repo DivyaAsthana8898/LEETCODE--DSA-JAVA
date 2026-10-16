@@ -106,6 +106,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -264,6 +265,7 @@
 | [1323-maximum-69-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1323-maximum-69-number/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
