@@ -82,6 +82,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -221,6 +222,7 @@
 | [0997-find-the-town-judge](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
@@ -267,6 +269,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1323-maximum-69-number/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
