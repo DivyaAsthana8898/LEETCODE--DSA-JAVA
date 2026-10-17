@@ -278,6 +278,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -302,6 +303,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3870-count-commas-in-range](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Search
