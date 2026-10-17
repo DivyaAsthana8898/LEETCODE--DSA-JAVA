@@ -272,6 +272,7 @@
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1323-maximum-69-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1323-maximum-69-number/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -517,6 +518,7 @@
 | [1816-truncate-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
