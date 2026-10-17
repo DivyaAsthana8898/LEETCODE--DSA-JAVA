@@ -16,7 +16,7 @@ class Solution {
         }
 
         char firstMin = s.charAt(0);
-        String min = s.replace(firstMin, '0');
+        String min = s.replace(firstMin, '0');// replace all occurences with 0;
 
         return Integer.parseInt(max) - Integer.parseInt(min);
     }
