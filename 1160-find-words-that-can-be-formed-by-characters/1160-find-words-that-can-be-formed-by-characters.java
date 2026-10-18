@@ -3,7 +3,7 @@ class Solution {
         int[] freq = new int[26];
 
         for (char c : chars.toCharArray()) {
-            freq[c - 'a']++;
+            freq[c - 'a']++;// incrementing particular characters count;
             
         }
 
