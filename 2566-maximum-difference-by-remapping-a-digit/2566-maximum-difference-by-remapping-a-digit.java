@@ -1,23 +1,25 @@
 class Solution {
     public int minMaxDifference(int num) {
+    
         String s = String.valueOf(num);
 
         char first = ' ';
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) != '9') {
-                first = s.charAt(i);
-                break;
+        for(int i = 0;i<s.length();i++){
+            if(s.charAt(i) != '9'){
+            first = s.charAt(i);
+            break;
+
             }
         }
+           String  max = s;
+           if( first != ' '){
+            max = s.replace(first ,'9');
 
-        String max = s;
-        if (first != ' ') {
-            max = s.replace(first, '9');
+
+           }
+            char min = s.charAt(0);
+            String Min = s.replace(min,'0');
+
+            return Integer.parseInt(max) - Integer.parseInt(Min);
         }
-
-        char firstMin = s.charAt(0);
-        String min = s.replace(firstMin, '0');// replace all occurences with 0;
-
-        return Integer.parseInt(max) - Integer.parseInt(min);
     }
-}
