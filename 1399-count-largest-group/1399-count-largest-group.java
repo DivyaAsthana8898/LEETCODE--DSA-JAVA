@@ -7,8 +7,9 @@ class Solution {
             int sum = 0;
 
             while (num > 0) {// TAKING OUT THE SUM OF DIGITS
-                sum += num % 10;
-                num /= 10;
+                sum += num % 10;// 
+                num = num / 10;
+            
             }
 
             map.put(sum, map.getOrDefault(sum, 0) + 1);
