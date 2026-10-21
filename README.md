@@ -54,6 +54,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0506-relative-ranks/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0561-array-partition](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0561-array-partition/) | Easy |
@@ -215,6 +216,7 @@
 | [0389-find-the-difference](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0645-set-mismatch/) | Easy |
 | [0697-degree-of-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0697-degree-of-an-array/) | Easy |
@@ -539,6 +541,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Recursion
@@ -618,4 +621,8 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
