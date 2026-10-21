@@ -35,6 +35,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0136-single-number/) | Easy |
+| [0162-find-peak-element](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
@@ -328,6 +329,7 @@
 | [0035-search-insert-position](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0162-find-peak-element](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
