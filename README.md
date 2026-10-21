@@ -228,6 +228,7 @@
 | [1002-find-common-characters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -434,6 +435,7 @@
 | [1051-height-checker](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1122-relative-sort-array/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1399-count-largest-group](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1399-count-largest-group/) | Easy |
@@ -523,6 +525,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1436-destination-city](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1436-destination-city/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
