@@ -10,15 +10,15 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode fastptr = head;
-        ListNode slowptr = head;
+      
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(fastptr != null && fastptr.next != null){//The while loop runs repeatedly until the condition fails.
-            slowptr = slowptr.next;
-            fastptr = fastptr.next.next;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+
         }
-         return slowptr;
-        
+        return slow;
     }
-}//The if condition runs only once.
-// It just checks one time and moves the pointers one step.
+}
