@@ -141,6 +141,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0344-reverse-string/) | Easy |
@@ -555,6 +556,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0020-valid-parentheses/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -563,6 +565,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -635,6 +638,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
