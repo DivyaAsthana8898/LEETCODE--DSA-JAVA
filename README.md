@@ -323,6 +323,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3870-count-commas-in-range](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Search
@@ -566,6 +567,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -650,6 +652,7 @@
 | [0328-odd-even-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
