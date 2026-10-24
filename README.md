@@ -430,6 +430,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -648,6 +649,7 @@
 | [0234-palindrome-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
