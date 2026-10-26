@@ -17,7 +17,8 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
         ListNode prev = null;
-
+          
+          // just to break list into 2
         while (fast != null && fast.next != null) {
             prev = slow;
             slow = slow.next;
@@ -46,9 +47,10 @@ class Solution {
             }
             temp = temp.next;
         }
+             // handling leftover part
 
-        if (a != null) temp.next = a;
-        else temp.next = b;
+         if (a != null) temp.next = a;
+         else temp.next = b;
 
         return dummy.next;
     }
