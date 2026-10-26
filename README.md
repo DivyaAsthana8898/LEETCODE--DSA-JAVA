@@ -141,6 +141,7 @@
 | [0088-merge-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -219,6 +220,7 @@
 | [0013-roman-to-integer](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0141-linked-list-cycle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0205-isomorphic-strings/) | Easy |
@@ -385,6 +387,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Prefix Sum
@@ -658,6 +661,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
