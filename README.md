@@ -71,6 +71,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0896-monotonic-array/) | Easy |
 | [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
@@ -359,6 +360,7 @@
 | [0704-binary-search](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
