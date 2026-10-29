@@ -450,6 +450,7 @@
 | [1929-concatenation-of-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1929-concatenation-of-array/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +577,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2418-sort-the-people](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2418-sort-the-people/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -587,6 +589,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
