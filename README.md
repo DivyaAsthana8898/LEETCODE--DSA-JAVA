@@ -76,6 +76,7 @@
 | [0912-sort-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0912-sort-an-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0941-valid-mountain-array/) | Easy |
 | [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0954-array-of-doubled-pairs](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0954-array-of-doubled-pairs/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -440,6 +441,7 @@
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0415-add-strings/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -577,6 +579,7 @@
 | [0020-valid-parentheses](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
