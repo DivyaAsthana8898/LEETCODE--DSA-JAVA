@@ -163,6 +163,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0844-backspace-string-compare](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0917-reverse-only-letters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
@@ -440,6 +441,7 @@
 | [0067-add-binary](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0415-add-strings/) | Easy |
+| [0844-backspace-string-compare](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1389-create-target-array-in-the-given-order](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
@@ -548,6 +550,7 @@
 | [0709-to-lower-case](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0819-most-common-word/) | Easy |
+| [0844-backspace-string-compare](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
@@ -579,6 +582,7 @@
 | [0020-valid-parentheses](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
+| [0844-backspace-string-compare](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
