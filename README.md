@@ -53,6 +53,7 @@
 | [0410-split-array-largest-sum](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0414-third-maximum-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
@@ -324,6 +325,7 @@
 | [0412-fizz-buzz](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0415-add-strings/) | Easy |
 | [0441-arranging-coins](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
