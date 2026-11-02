@@ -4,12 +4,16 @@ class Solution {
      
 
         for(char ch :s.toCharArray()){
+            // if same element encounters
         if(!st.isEmpty()  && ch == st.peek()){
              st.pop();
         } else{
+           // if diff element encounters then push
             st.push(ch);
         } 
          }
+
+         // string part
       StringBuilder str = new StringBuilder();
       while(!st.isEmpty()){
         str.append(st.peek());
