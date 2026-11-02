@@ -558,6 +558,7 @@
 | [0917-reverse-only-letters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0917-reverse-only-letters/) | Easy |
 | [0942-di-string-match](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0942-di-string-match/) | Easy |
 | [1002-find-common-characters](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1002-find-common-characters/) | Easy |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -588,6 +589,7 @@
 | [0496-next-greater-element-i](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0496-next-greater-element-i/) | Easy |
 | [0844-backspace-string-compare](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1003-check-if-word-is-valid-after-substitutions/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/DivyaAsthana8898/LEETCODE--DSA-JAVA/tree/main/2000-reverse-prefix-of-word/) | Easy |
